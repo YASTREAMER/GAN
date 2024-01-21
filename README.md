@@ -1,2 +1,2 @@
 # GAN
-This is my repo for Gan
+Just started Working on GAN so not much to look at right now
